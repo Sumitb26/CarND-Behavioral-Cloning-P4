@@ -13,10 +13,6 @@ The goals / steps of this project are the following:
 [image1]: ./train_data_map1/IMG/center_2020_12_21_15_58_05_390.jpg "Normal Image"
 [image2]: ./examples/flipped_center_2020_12_21_15_58_05_390.jpg "Flipped Image"
 
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
-
----
 ### Files Submitted & Code Quality
 
 #### 1. Submission includes all required files and can be used to run the simulator in autonomous mode
